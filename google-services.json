@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877409945686",
+    "project_id": "mydaysapp-d22d9",
+    "storage_bucket": "mydaysapp-d22d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877409945686:android:b314f76d1850e44f5a13f7",
+        "android_client_info": {
+          "package_name": "com.example.mydaysapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877409945686-klcmkpavuqt7nce4et39ciag3rm4opuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0M6MYwctGC1PsnmUeHQ2x4P87uxg6vns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877409945686-klcmkpavuqt7nce4et39ciag3rm4opuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

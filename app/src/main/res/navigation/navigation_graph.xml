@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/authFragment">
+
+    <fragment
+        android:id="@+id/authFragment"
+        android:name="com.example.mydaysapp2.ui.login.AuthFragment"
+        android:label="AuthFragment" >
+        <action
+            android:id="@+id/action_authFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainPageFragment"
+        android:name="com.example.mydaysapp2.ui.mainpage.MainPageFragment"
+        android:label="main_page_fragment"
+        tools:layout="@layout/main_page_fragment" >
+        <action
+            android:id="@+id/action_mainPageFragment_to_authFragment"
+            app:destination="@id/authFragment" />
+        <action
+            android:id="@+id/action_mainPageFragment_to_noGroupFragment"
+            app:destination="@id/noGroupFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/groupFragment"
+        android:name="com.example.mydaysapp2.ui.group.GroupFragment"
+        android:label="group_fragment"
+        tools:layout="@layout/group_fragment" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.mydaysapp2.ui.settings.SettingsFragment"
+        android:label="settings_fragment"
+        tools:layout="@layout/settings_fragment" >
+        <action
+            android:id="@+id/action_settingsFragment_to_authFragment"
+            app:destination="@id/authFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/noGroupFragment"
+        android:name="com.example.mydaysapp2.ui.nogroupFragment.NoGroupFragment"
+        android:label="NoGroupFragment" >
+        <action
+            android:id="@+id/action_noGroupFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment" />
+        <action
+            android:id="@+id/action_noGroupFragment_to_authFragment"
+            app:destination="@id/authFragment" />
+    </fragment>
+</navigation>

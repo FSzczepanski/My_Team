@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#FFFFFF</color>
+    <color name="second">#2BB659</color>
+    <color name="iconColor">#E5EFE2</color>
+    <color name="teamNameColor">#999C99</color>
+    <color name="second2">#1EAE2C</color>
+    <color name="chat1">#E8ECE7</color>
+    <color name="chat2">#C1F4A6</color>
+    <color name="goals">#DDFDCC</color>
+    <color name="accent">#DDDDDD</color>
+    <color name="accent2">#F6F6F6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
