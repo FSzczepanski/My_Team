@@ -5,22 +5,24 @@
 
 Aplikacja nie jest jeszcze skończona, docelowo ma to być moja pierwsza aplikacja w sklepie google.
 
+# Funkcje
+Ekran 1:
+
+* 
 
 
 ## Screenshots
 
 
-![myday1](https://user-images.githubusercontent.com/61236736/117571570-6c805280-b0cf-11eb-97b7-cb1c40add40c.jpg)
+![myday1](https://user-images.githubusercontent.com/61236736/117573265-3941c180-b0d7-11eb-80c3-9298b62f9611.jpg)
 
-![myday2](https://user-images.githubusercontent.com/61236736/117571568-6be7bc00-b0cf-11eb-9805-2b52aa042c80.jpg)
+![myday2](https://user-images.githubusercontent.com/61236736/117573288-524a7280-b0d7-11eb-8711-d281d0697b18.jpg)
+![myday3](https://user-images.githubusercontent.com/61236736/117573293-56769000-b0d7-11eb-8ed4-8e09b20c251a.jpg)
+![myday4](https://user-images.githubusercontent.com/61236736/117573296-59718080-b0d7-11eb-8981-c80ce899fe08.jpg)
 
-![myday3](https://user-images.githubusercontent.com/61236736/117571567-6be7bc00-b0cf-11eb-9ed7-b534a38625c9.jpg)
+![myday5](https://user-images.githubusercontent.com/61236736/117573299-5b3b4400-b0d7-11eb-9264-35ef438bb901.jpg)
+![myday6](https://user-images.githubusercontent.com/61236736/117573300-5d050780-b0d7-11eb-992b-4eb510ae4e65.jpg)
 
-![myday4](https://user-images.githubusercontent.com/61236736/117571566-6b4f2580-b0cf-11eb-8034-2475b31ec513.jpg)
-
-![myday5](https://user-images.githubusercontent.com/61236736/117571565-6b4f2580-b0cf-11eb-9da2-145ec1c8a209.jpg)
-
-![myday6](https://user-images.githubusercontent.com/61236736/117571563-6ab68f00-b0cf-11eb-9b39-6ec787c26e4c.jpg)
 
 
 
